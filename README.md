@@ -10,11 +10,14 @@ This project presents an interactive Power BI dashboard designed to analyze mont
 Microsoft Power BI
 
 Power Query
+
 DAX 
 
 # Key Features
 Monthly performance monitoring
+
 Sales and channel analysis
+
 Interactive visualizations and filters
 
 # How to View
